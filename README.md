@@ -3,6 +3,7 @@
 ## Inteligencia Artificial
 
 **Estudiante:** Juan Alejandro Roldán Rodríguez y Brayan David Riascos Murillo 
+
 **Materia:** Inteligencia Artificial  
 **Universidad:** Universidad del Pacífico 
 
