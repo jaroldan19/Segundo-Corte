@@ -4,8 +4,8 @@
 
 **Estudiante:** Juan Alejandro Roldán Rodríguez  
 **Materia:** Inteligencia Artificial  
-**Universidad:** Tu universidad aquí  
-**Docente:** Nombre del profesor  
+**Universidad:** Universidad del Pacífico 
+**Docente:** Wilman Quiñonez
 **Herramientas utilizadas:** Python, Pandas, Google Colab y GitHub  
 
 ---
