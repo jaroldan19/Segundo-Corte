@@ -2,7 +2,7 @@
 
 ## Inteligencia Artificial
 
-**Estudiante:** Tu nombre aquí  
+**Estudiante:** Juan Alejandro Roldán Rodríguez  
 **Materia:** Inteligencia Artificial  
 **Universidad:** Tu universidad aquí  
 **Docente:** Nombre del profesor  
